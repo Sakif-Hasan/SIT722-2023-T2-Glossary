@@ -1,0 +1,15 @@
+
+/* Colors Scheme of the page*/
+html { 
+    color-scheme: dark;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+    background: #323232;
+    padding: 1rem;
+}
+
+th, td {
+    padding: 1rem;
+}
